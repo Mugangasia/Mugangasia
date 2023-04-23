@@ -27,11 +27,13 @@ I have progressively transitioned from an Accountant >> Business Inteligence Ana
 
 📍Visualization: Tableau,Power BI,Advanced Excel
 
+📍Data Scrapping, Data Mining and APIs 
+
 📍Statistics: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Regression Analysis,AB Testing.
 
 📍Data wrangling and database management : MySQL,MongoDB,Oracle
 
-📍Machine learning and deep learning: Regression Modeling, Decision Tree, Random Forest, AdaBoost, GradientBoosting XGBoost, K-means Clustering, Feature Extraction. 
+📍Machine learning and deep learning: Regression Modeling, Decision Tree, Random Forest, AdaBoost, GradientBoosting XGBoost, K-means Clustering, Feature   Extraction. 
 
 📍Cloud computing: Amazon Web Service (AWS),Microsoft Azure,Google Cloud
 
