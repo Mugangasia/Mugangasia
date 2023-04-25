@@ -1,6 +1,6 @@
 # PROFESSIONAL SUMMARY 
 
-![Blue Gradient Modern LinkedIn Banner](https://user-images.githubusercontent.com/98708792/234151147-6d68f611-9b4d-47e9-bf26-de973f112f35.png)<br>
+![Blue Gradient Modern LinkedIn Banner (1)](https://user-images.githubusercontent.com/98708792/234152774-b950de38-72e5-4d9b-afcb-4b391d05547e.png) <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mugangasia)](https://github.com/ryo-ma/github-profile-trophy)
 
 A reliable and experienced Data Scientist, Artificial 
