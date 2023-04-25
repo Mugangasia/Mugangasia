@@ -1,7 +1,7 @@
 # PROFESSIONAL SUMMARY 
 
-![Blue Gradient Modern LinkedIn Banner](https://user-images.githubusercontent.com/98708792/234151147-6d68f611-9b4d-47e9-bf26-de973f112f35.png)
-
+![Blue Gradient Modern LinkedIn Banner](https://user-images.githubusercontent.com/98708792/234151147-6d68f611-9b4d-47e9-bf26-de973f112f35.png)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mugangasia)](https://github.com/ryo-ma/github-profile-trophy)
 
 A reliable and experienced Data Scientist, Artificial 
 Intelligence Business Leader with over 6 years of experience executing data-driven 
@@ -54,8 +54,5 @@ I have progressively transitioned from an Accountant >> Business Inteligence Ana
 
 ## Work and Affiliations
 - Data Science Manager  - Triangle Healthcare Consulting Inc
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mugangasia)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mugangasia)  
