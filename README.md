@@ -45,7 +45,13 @@ I have progressively transitioned from an Accountant >> Business Inteligence Ana
 📍Hospitality, Banking, HR Analytics, Retail, Finance,Tea Industry, Online Risk Management.
 
 ## Portfolio Projects 
-📍
+📍Car Price prediction Model 
+📍Loan Default Prediction Model 
+📍House Price Prediction Model
+📍Diamond Price Predictor 
+📍MIcrosoft Movie Studio (EDA)
+📍HYpothesis Testing (Wine Quality)
+
 
 ## Connect with Me
 
