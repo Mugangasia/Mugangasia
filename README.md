@@ -72,6 +72,9 @@ You are required to model the price of cars with the available independent varia
 
 📍Hypothesis Testing (Wine Quality)
 
+## Data Visualization Projects 
+📍Tableau Projects [https://public.tableau.com/app/search/vizzes/Bravin%20Mugangasia](url)
+
 
 ## Connect with Me
 
