@@ -88,3 +88,11 @@ You are required to model the price of cars with the available independent varia
 - Data Science Manager  - Triangle Healthcare Consulting Inc
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mugangasia)  
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
