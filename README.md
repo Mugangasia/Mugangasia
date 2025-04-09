@@ -8,9 +8,7 @@
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Mugangasia&theme=tokyonight)](https://git.io/streak-stats)
-  
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=Mugangasia&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
+   
 </div>
 
 ## About Me
