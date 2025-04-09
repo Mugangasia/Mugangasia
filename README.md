@@ -1,161 +1,213 @@
 # Bravin Mugangasia
-## Data Scientist & AI Business Leader
+## Data Analyst | Machine Learning Engineer | BI Analyst
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/98708792/234152774-b950de38-72e5-4d9b-afcb-4b391d05547e.png" alt="Professional Banner">
+  <img src="https://user-images.githubusercontent.com/98708792/234152774-b950de38-72e5-4d9b-afcb-4b391d05547e.png" alt="Professional Banner" width="100%">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mugangasia&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mugangasia&theme=dark)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mugangasia&theme=tokyonight)](https://git.io/streak-stats)
+  
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=Mugangasia&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
-## 👨‍💻 About Me
+## About Me
 
-A reliable and experienced **Data Scientist** and **Artificial Intelligence Business Leader** with over 6 years of experience executing data-driven solutions to increase efficiency and accuracy for complex business problems.
+A dynamic and results-oriented Data Analyst and Machine Learning Engineer with over 6 years of experience in data analytics, statistical modeling, and project management. I have a strong entrepreneurial spirit and deep commitment to community engagement. My expertise spans data science projects across multiple domains including Hospitality, Banking, HR Analytics, Retail, Finance, Tea Industry, and Risk Management.
 
-I've worked on captivating data science projects and audit assurance engagements with extensive experience across multiple domains including Hospitality, Banking, HR Analytics, Retail, Finance, Tea Industry, and Risk Management.
+I leverage my skills in Python, R, SQL, and visualization tools to develop innovative solutions that deliver tangible business insights. My work involves:
 
-My work involves:
-- Fraud Detection
-- Finance and Risk Analytics
-- Forecasting Models
-- Statistical analysis for evidence-based business decisions
-- Hypothesis testing and data interpretation
-- Linear regression to identify key business drivers
-- AI implementation for strategic business decisions
+- Statistical analysis and modeling
+- Machine learning implementation
+- Fraud detection systems
+- Data visualization and storytelling
+- Project management and team leadership
 
-I've progressively transitioned from an **Accountant → Business Intelligence Analyst → Data Scientist**, enriching my skillset at each step. I intend to continue hands-on data engineering and analysis while developing additional technical and leadership skills.
+Based in Nairobi, Kenya, I'm passionate about harnessing technology to empower communities and foster sustainable growth through strategic partnerships and grassroots initiatives.
 
-## 🛠️ Skills & Tools
+## Technical Skills
 
 <div align="center">
 
 | **Category** | **Technologies & Skills** |
 |---|---|
-| **Programming** | Python, SQL, KNIME |
-| **Visualization** | Tableau, Power BI, Advanced Excel |
-| **Data Collection** | Data Scraping, Data Mining, APIs |
-| **Statistics** | Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Regression Analysis, A/B Testing |
-| **Database Management** | MySQL, MongoDB, Oracle |
-| **Machine Learning** | Regression, Decision Trees, Random Forest, AdaBoost, GradientBoosting, XGBoost, K-means Clustering, Feature Extraction |
-| **Cloud Computing** | AWS, Microsoft Azure, Google Cloud |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Python Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square&logo=python&logoColor=white) |
+| **R Packages** | ![dplyr](https://img.shields.io/badge/dplyr-1B9E77?style=flat-square&logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-FC8D62?style=flat-square&logo=r&logoColor=white) ![tidyr](https://img.shields.io/badge/tidyr-56B4E9?style=flat-square&logo=r&logoColor=white) |
+| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-0078D7?style=flat-square&logo=knime&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
+| **Design** | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
 
 </div>
 
-## 📊 Data Science Portfolio
+## Professional Experience
+
+### Data Analyst
+**Elphrods Services LLP** | Kisumu, Kenya (Hybrid) | *May 2023 - Present*
+- Collaborate with Credit leadership to enhance underwriting practices
+- Develop data-driven strategies using statistical tools
+- Identify delinquency/loss trends and optimize credit policies
+- Monitor portfolio performance and communicate insights
+
+### Business Data Analyst
+**Triangle Health Care Consulting Inc** | North Carolina, USA (Remote) | *November 2022 - Present*
+- Interpret, synthesize, and modify reports for healthcare metrics
+- Analyze nursing and infection control measures
+- Maintain and improve Nursing Scorecards
+- Provide leadership to the Nursing Quality and Safety Data team
+
+### Project Manager
+**The 4gotten Bottomillions (4BM)** | Nairobi, Kenya | *September 2021 - June 2023*
+- Organized mentorship programs for youth across Kenya
+- Managed donor-funded projects and grant applications
+- Led Kenya's largest WhatsApp network for opportunity sharing
+- Engaged 20+ partners for project resources and implementation
+
+### FarmHub Manager and Trainer
+**Programme for Capacity Development in Africa (P4CDA)** | Nairobi, Kenya | *October 2020 - September 2021*
+- Trained 16,000+ farmers on sustainable practices
+- Implemented agricultural technologies for dairy goat farming
+- Managed recruitment of 27,000+ students to e-learning programs
+
+## Education
+
+- **Applied Data Science Labs** - WorldQuant University (Nov 2023)
+- **Data Science and Machine Learning** - Moringa School, Nairobi (Feb 2023)
+- **Financial Modeling and Valuation Analyst** - Corporate Finance Institute (May 2022 - Jan 2023)
+- **Bachelor of Commerce (Accounting)** - Machakos University, Kenya (Sep 2014 - Nov 2018)
+
+## Project Portfolio
 
 <div class="projects-grid">
 
+### 🕵️ Scam Job Prediction Model
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-2C2D72?style=flat-square&logo=regex&logoColor=white)
+
+- Analyzed 50,000 job postings to identify fraudulent listings
+- Implemented regex techniques to extract key requirements
+- Achieved 78% accuracy with 34% lift in the prediction model
+
+[View Project](#)
+
+### 🌱 Soil Testing & Crop Recommender System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Agriculture](https://img.shields.io/badge/Agriculture-6DB33F?style=flat-square&logo=flora&logoColor=white)
+
+- Collecting and cleaning data on crop varieties and soil properties
+- Researching ML/DL applications in agriculture
+- Developing proof of concept system for farmers
+
+[View Project](#)
+
+### 📊 Sentiment Analysis on Tweets
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Text Analysis](https://img.shields.io/badge/Text_Analysis-5C2D91?style=flat-square&logo=textpattern&logoColor=white)
+
+- Performed sentiment analysis on 14,000 airline reviews
+- Applied text analysis to identify key complaints
+- Built model with 88% accuracy and 34% lift
+
+[View Project](#)
+
+### 📞 Call Center Data Analysis
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+- Extracted data from 5 related tables using SQL JOIN
+- Transformed data to improve reporting efficiency
+- Created dashboard for department comparison
+
+[View Project](#)
+
 ### 🚗 Car Price Prediction Model
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Goal**: Predict car prices for Geely Auto's US market entry using regression analysis
-
-**Achievements**:
-- Identified key variables affecting car pricing in the American market
-- Built predictive model to support strategic pricing decisions
-- Provided insights for product design and business strategy optimization
+- Identified key variables affecting car pricing
+- Built model to support strategic pricing decisions
+- Provided insights for product design optimization
 
 [View Code](https://github.com/Mugangasia/car-prediction-model/blob/master/car-price-prediction-linear-regression-rfe.ipynb)
 
-### 💰 Loan Default Prediction Model
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Goal**: Predict likelihood of loan defaults to optimize lending decisions
-
-[View Project](#)
-
 ### 🏠 House Price Prediction Model
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Goal**: Develop accurate model to predict housing prices based on property features
-
-[View Project](#)
-
-### 💎 Diamond Price Predictor
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Goal**: Create prediction model for diamond pricing based on the 4Cs and other features
-
-[View Project](#)
-
-### 🎬 Microsoft Movie Studio (EDA)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-**Goal**: Exploratory Data Analysis to provide insights for Microsoft's new movie studio
-
-[View Project](#)
-
-### 🍷 Hypothesis Testing (Wine Quality)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Goal**: Statistical analysis to determine factors affecting wine quality
+- Developed model to predict housing prices
+- Analyzed property features impact on pricing
+- Created visualization of market trends
 
 [View Project](#)
 
 </div>
 
-## 🌐 Web Development Projects
+## Web Development Projects
 
 <div class="web-projects-grid">
 
-<!-- Web Project 1 Placeholder -->
+<!-- Add your web development projects here -->
 <div class="project-card">
-    <h3>E-Commerce Platform</h3>
-    <p>React-based shopping platform with user authentication and payment integration</p>
+    <h3>Community Resource Portal</h3>
+    <p>Platform connecting rural communities with educational resources</p>
     <div class="tech-stack">
-        <span>React</span>
-        <span>Node.js</span>
-        <span>MongoDB</span>
+        <span>WordPress</span>
+        <span>PHP</span>
+        <span>MySQL</span>
     </div>
     <a href="#">View Project</a>
 </div>
 
-<!-- Web Project 2 Placeholder -->
 <div class="project-card">
-    <h3>Analytics Dashboard</h3>
-    <p>Interactive dashboard for visualizing business metrics and KPIs</p>
+    <h3>Agricultural Data Dashboard</h3>
+    <p>Interactive visualization of farming data for smallholder farmers</p>
     <div class="tech-stack">
-        <span>Vue.js</span>
+        <span>React</span>
         <span>D3.js</span>
         <span>Firebase</span>
     </div>
     <a href="#">View Project</a>
 </div>
 
-<!-- Web Project 3 Placeholder -->
 <div class="project-card">
-    <h3>Personal Finance Tracker</h3>
-    <p>Web application for tracking expenses and financial goals</p>
+    <h3>Healthcare Metrics Viewer</h3>
+    <p>Web application for healthcare professionals to track patient metrics</p>
     <div class="tech-stack">
         <span>JavaScript</span>
-        <span>Express</span>
-        <span>MySQL</span>
+        <span>Chart.js</span>
+        <span>Bootstrap</span>
     </div>
     <a href="#">View Project</a>
 </div>
 
-<!-- Add more project cards as needed -->
-
 </div>
 
-## 📈 Data Visualization Projects
+## Data Visualization Gallery
 
 Check out my interactive dashboards and visualizations on [Tableau Public](https://public.tableau.com/app/search/vizzes/Bravin%20Mugangasia)
 
-## 🌱 Current Focus
+## Community Involvement
 
-- Expanding web development skills with React and Node.js
-- Enhancing NLP capabilities for text analytics projects
-- Exploring computer vision applications in retail
+I'm passionate about using my skills to empower communities and foster sustainable growth:
 
-## 📫 Connect With Me
+- **Footprints of Hope** - Community Mobilizer and Trainer (2022-Present)
+  - Supporting women entrepreneurs in Siaya and Busia County
+  - Delivering financial literacy training for women-owned businesses
+  - Partnering with Kenya Chambers of Commerce
+
+- **Grassroot Women and Politics** - Community Mobilization and Trainer (2022-Present)
+  - Empowering widows under 45 years, especially those with disabilities
+  - Promoting political engagement and economic empowerment
+
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bravinmugangasiaprofile/">
@@ -170,13 +222,10 @@ Check out my interactive dashboards and visualizations on [Tableau Public](https
   <a href="https://public.tableau.com/app/search/vizzes/Bravin%20Mugangasia">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   </a>
+  <p>📱 +254 704 113 882 | 📍 Nairobi, Kenya</p>
 </div>
 
-## 🏢 Current Role
-
-- **Data Science Manager** - Triangle Healthcare Consulting Inc
-
-<!-- Adding custom styling for project grids -->
+<!-- Custom CSS for project grids -->
 <style>
 .projects-grid, .web-projects-grid {
   display: grid;
