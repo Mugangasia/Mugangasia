@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="t d">
+  <title id="t">Bravin Mugangasia, I turn complexity into clarity</title>
+  <desc id="d">Full Stack Developer and data analyst building systems for clean energy, water access, mobility and inclusive finance.</desc>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 .2  0 0 0 0 .2  0 0 0 0 .2  0 0 0 .45 0"/>
+    </filter>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ececec" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00ff85" stop-opacity=".16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="18" fill="#ececec"/>
+  <rect width="1280" height="420" rx="18" filter="url(#grain)" opacity=".5"/>
+  <rect width="1280" height="420" rx="18" fill="url(#fade)"/>
+  <rect x=".5" y=".5" width="1279" height="419" rx="18" fill="none" stroke="#17191b" stroke-opacity=".12"/>
+  <g stroke="#17191b" stroke-opacity=".6" fill="none" stroke-width="1">
+    <circle cx="1040" cy="210" r="150"/>
+    <ellipse cx="1040" cy="210" rx="150" ry="150"><animate attributeName="rx" values="150;0;150" dur="14s" begin="-0.00s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="210" rx="150" ry="150"><animate attributeName="rx" values="150;0;150" dur="14s" begin="-2.38s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="210" rx="150" ry="150"><animate attributeName="rx" values="150;0;150" dur="14s" begin="-4.62s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="210" rx="150" ry="150"><animate attributeName="rx" values="150;0;150" dur="14s" begin="-7.00s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="210" rx="150" ry="150"><animate attributeName="rx" values="150;0;150" dur="14s" begin="-9.38s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="210" rx="150" ry="150"><animate attributeName="rx" values="150;0;150" dur="14s" begin="-11.62s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="80.1" rx="75.0" ry="10.5"/>
+<ellipse cx="1040" cy="135.0" rx="129.9" ry="18.2"/>
+<ellipse cx="1040" cy="210.0" rx="150.0" ry="21.0"/>
+<ellipse cx="1040" cy="285.0" rx="129.9" ry="18.2"/>
+<ellipse cx="1040" cy="339.9" rx="75.0" ry="10.5"/>
+
+  </g>
+  <circle cx="1146" cy="104" r="7" fill="#00ff85"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <g font-family="Satoshi, Inter, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="64" y="58" width="338" height="34" rx="17" fill="#00ff85"/>
+    <text x="82" y="80" font-size="12.5" font-weight="500" letter-spacing="1.6" fill="#17191b">OPEN FOR DATA &amp; SOFTWARE PROJECTS</text>
+    <text x="64" y="188" font-size="76" font-weight="700" letter-spacing="-3" fill="#17191b">I turn complexity</text>
+    <text x="64" y="268" font-size="76" font-weight="300" letter-spacing="-3" fill="#9a9c9f">into clarity.</text>
+    <text x="64" y="326" font-size="23" fill="#55585c">Bravin Mugangasia · Full Stack Developer · Data &amp; Analytics</text>
+    <text x="64" y="360" font-size="16" fill="#8b8d90">Kisumu / Nairobi, Kenya · Technology for development</text>
+  </g>
+  <g stroke="#17191b" stroke-width="1">
+    <path d="M30 392h22M41 381v22"/>
+    <path d="M1228 392h22M1239 381v22"/>
+  </g>
+</svg>
